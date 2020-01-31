@@ -1,0 +1,126 @@
+<Configuration>
+  <RecentFilesTracker>
+    <RecentFilesTracker>
+      <TrackedFile location="K:\Lukasz.Strozek\m4aEncrypt\Encrypt.cs" offset="23403" line="690" column="0" />
+    </RecentFilesTracker>
+  </RecentFilesTracker>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:MP4Root">
+      <Item value="Parse" priority="0" />
+      <Item value="Bytes" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="Position" priority="4" />
+      <Item value="Seek" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Encrypt.input">
+      <Item value="ReadByte" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Encrypt">
+      <Item value="_root" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:string">
+      <Item value="Replace" priority="2" />
+      <Item value="Length" priority="0" />
+      <Item value="IndexOf" priority="2" />
+      <Item value="Remove" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:byte[]">
+      <Item value="CopyTo" priority="7" />
+      <Item value="Initialize" priority="0" />
+      <Item value="Length" priority="9" />
+      <Item value="Equals" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System">
+      <Item value="IO" priority="0" />
+      <Item value="Globalization" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Globalization.NumberStyles">
+      <Item value="HexNumber" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ArrayList">
+      <Item value="Add" priority="3" />
+      <Item value="Count" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileStream">
+      <Item value="Write" priority="0" />
+      <Item value="Read" priority="0" />
+      <Item value="Close" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Cryptography.MD5CryptoServiceProvider">
+      <Item value="TransformBlock" priority="1" />
+      <Item value="TransformFinalBlock" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Atoms">
+      <Item value="Dump" priority="1" />
+      <Item value="Child" priority="22" />
+      <Item value="GetAndUpdateSize" priority="1" />
+      <Item value="Write" priority="0" />
+      <Item value="Bytes" priority="0" />
+      <Item value="DrawTree" priority="0" />
+      <Item value="AppendAtom" priority="0" />
+      <Item value="Position" priority="0" />
+      <Item value="_type" priority="0" />
+      <Item value="_data" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileMode">
+      <Item value="Open" priority="0" />
+      <Item value="Create" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.Encoding.ASCII">
+      <Item value="GetChars" priority="0" />
+      <Item value="ToString" priority="0" />
+      <Item value="GetString" priority="8" />
+      <Item value="GetBytes" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:uint[]">
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Array">
+      <Item value="Reverse" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.BitConverter">
+      <Item value="ToUInt32" priority="0" />
+      <Item value="GetBytes" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Encrypt._root">
+      <Item value="DrawTree" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.BinaryReader">
+      <Item value="BaseStream" priority="6" />
+      <Item value="ReadBytes" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Byte">
+      <Item value="Parse" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@">
+      <Item value="Contains" priority="0" />
+      <Item value="Read" priority="0" />
+      <Item value="DrawTree" priority="0" />
+      <Item value="Write" priority="0" />
+      <Item value="Length" priority="6" />
+      <Item value="Parse" priority="1" />
+      <Item value="Open" priority="0" />
+      <Item value="Close" priority="3" />
+      <Item value="input" priority="0" />
+      <Item value="Substring" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.MemoryStream">
+      <Item value="ToArray" priority="0" />
+      <Item value="Write" priority="5" />
+      <Item value="Position" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Globalization">
+      <Item value="NumberFormatInfo" priority="0" />
+      <Item value="NumberStyles" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean />
+  </SettingsComponent>
+</Configuration>
